@@ -1,8 +1,8 @@
 # Antenna_Calculator_PRO_
 <br/><br/><br/>
-![image](https://github.com/ua1cfm/Antenna_Calculator_PRO/blob/main/01.png)
+![image](https://github.com/ua1cfm/Antenna_Calculator_PRO_/blob/main/01.png)
 <br/><br/><br/>
-![image](https://github.com/ua1cfm/Antenna_Calculator_PRO/blob/main/02.gif)
+![image](https://github.com/ua1cfm/Antenna_Calculator_PRO_/blob/main/02.gif)
 
 ANTENNA CALCULATOR PRO
 Описание программы
